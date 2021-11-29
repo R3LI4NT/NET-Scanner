@@ -41,7 +41,7 @@ def restart():
         print(copyright)
         print("\n\033[1;32mGoodbye, Friend\033[0;m\033[1;37m!\033[0;m")
         tool = exit(0)
-    os.system("python3 scanner.py")    	
+    os.system("python3 netscanner.py")    	
 
 def check_network():
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
