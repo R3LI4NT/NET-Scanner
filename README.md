@@ -17,5 +17,5 @@ Net-Scanner is a simple script to scan ports, IP's and MAC's addresses.
 ```
 • git clone https://github.com/R3LI4NT/NET-Scanner
 • cd NET-Scanner
-• python3 netscanner.py
+• python3 netscanner.py start
 ```
